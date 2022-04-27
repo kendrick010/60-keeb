@@ -1,4 +1,4 @@
-# 60_ansi_arrow Keymap
+# 60-keeb Keymap
 
 Default 60-keeb by [kendrick010](https://github.com/kendrick010).
 
