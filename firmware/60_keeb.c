@@ -1,3 +1,3 @@
 #include QMK_KEYBOARD_H
-#include "60-keeb.h"
+#include "60_keeb.h"
 

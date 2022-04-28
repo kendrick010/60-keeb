@@ -11,8 +11,8 @@
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 14
 
-#define MATRIX_ROW_PINS { F1 F0 E6 C7 B7 }
-#define MATRIX_COL_PINS { D1 D2 D3 B4 B5 B6 C6 D4 D6 D7 F4 F5 F6 F7 }
+#define MATRIX_ROW_PINS { F1, F0, E6, C7, B7 }
+#define MATRIX_COL_PINS { D1, D2, D3, B4, B5, B6, C6, D4, D6, D7, F4, F5, F6, F7 }
 
 #define UNUSED_PINS
 
