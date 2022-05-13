@@ -1,5 +1,17 @@
 # 60-keeb
->A 60% keyboard because why not.
+> A 60% keyboard because why not.
+
+![60-keeb](preview.jpg)
+
+## How To...
+Stack Order:
+- plate_1 (top most)
+- plate_2
+- plate_3 (switch plate)
+- plate_4
+- plate_5
+- plate_6 (bottom most)
+
 ## BOM
 | Component | Vendor | Quantity|
 | --------- | ------ | ------- |
@@ -15,4 +27,6 @@
 | 1uF Ceramic SMD Capacitor | [Digikey](https://www.digikey.com/en/products/detail/yageo/CC0805KKX7R8BB105/2833621) | 1 |
 | 4.7uF Ceramic SMD Capacitor | [Digikey](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902) | 1 |
 | 22pF Ceramic SMD Capacitor | [Digikey](https://www.digikey.com/en/products/detail/kemet/C0805C220J5GACTU/411388) | 2 |
+| M2x16mm Standoffs | [Amazon](https://www.amazon.com/dp/B07768Q7YS?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 8 |
+| M2 Screws | [Amazon](https://www.amazon.com/dp/B07768Q7YS?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 8 |
 
